@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://xray.is-best.net/banner.png](https://scontent-cgk2-1.xx.fbcdn.net/v/t39.30808-6/558051555_2559020224457164_2910193022555145132_n.png?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeF11621ixeHUAU-9Z6stntzw3s6T62RWqLDezpPrZFaooBoVg_7v241V-aAinCBTomWh7o8V8wVBJXaw0oOsFa1&_nc_ohc=dTbiftLAm7UQ7kNvwGzZhSZ&_nc_oc=AdkWSFew5hT5S5J-PNSIwbzLk9JnC-B1OgGjD3IwmK4ndBWAG-_bLoYOoUT7uTYq3wU&_nc_zt=23&_nc_ht=scontent-cgk2-1.xx&_nc_gid=GtBdPkbymtclo3GwEg_5Gw&oh=00_Afdvke1MT-GUC57VgfQEL8sizjUzrLq9BDxg1mVdm_xQgg&oe=68EEB037)" alt="Xray VPN Premium - Internet Murah & Kenceng" width="100%" />
+  <img src="https://xray.is-best.net/banner.png](https://scontent-cgk2-1.xx.fbcdn.net/v/t39.30808-6/558051555_2559020224457164_2910193022555145132_n.png?stp=dst-jpg_s720x720_tt6&_nc_cat=104&ccb=1-7&_nc_sid=2285d6&_nc_eui2=AeF11621ixeHUAU-9Z6stntzw3s6T62RWqLDezpPrZFaooBoVg_7v241V-aAinCBTomWh7o8V8wVBJXaw0oOsFa1&_nc_ohc=dTbiftLAm7UQ7kNvwGzZhSZ&_nc_oc=AdkWSFew5hT5S5J-PNSIwbzLk9JnC-B1OgGjD3IwmK4ndBWAG-_bLoYOoUT7uTYq3wU&_nc_zt=23&_nc_ht=scontent-cgk2-1.xx&_nc_gid=GtBdPkbymtclo3GwEg_5Gw&oh=00_Afdvke1MT-GUC57VgfQEL8sizjUzrLq9BDxg1mVdm_xQgg&oe=68EEB037" alt="Xray VPN Premium - Internet Murah & Kenceng" width="100%" />
 </p>
 
 # 🚀 Mau Internet Murah & Kenceng?
