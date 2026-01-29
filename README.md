@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/haniefautophile-official/v2ray/blob/main/bnr.png" alt="Xray VPN Premium - Internet Murah & Kenceng" width="100%" />
+  <img src="https://github.com/haniefautophile-official/v2ray/blob/main/IMG_20260129_084521_643.jpg" alt="Xray VPN Premium - Internet Murah & Kenceng" width="100%" />
 </p>
 
 # 🚀 Mau Internet Murah & Kenceng?
