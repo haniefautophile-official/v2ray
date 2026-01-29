@@ -20,13 +20,15 @@ Dijamin ngebut, stabil, dan cocok untuk semua kebutuhan internet kamu!
 
 ---
 
-## 🛒 Cara Order
+## 🛒 Cara Order Config
 
 1. Buka website: 🌐 **[https://xray.is-best.net/](https://xray.is-best.net/)**
 2. Pilih paket & isi form sesuai kebutuhan kamu
 3. Klik **Pesan via WhatsApp** atau **Pesan via Telegram**
 4. Admin langsung proses pesananmu 🚀
 
+## 🛒 Bot Telegram Auto Order SSH, ZIVPN, V2RAY
+👉 https://t.me/NISA_VPNbot
 ---
 
 ## 📦 Contoh Harga Paket
